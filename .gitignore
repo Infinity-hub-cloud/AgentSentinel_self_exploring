@@ -1,0 +1,24 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+.vscode/
+
+# Environment
+venv/
+.env
+
+# Logs
+logs/
+
+# Local datasets
+data/
+
+# Temporary outputs
+outputs/
+
+# OS
+.DS_Store
+Thumbs.db

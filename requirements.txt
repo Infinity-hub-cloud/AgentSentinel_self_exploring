@@ -1,0 +1,15 @@
+accelerate
+datasets
+jupyterlab
+matplotlib
+numpy
+pandas
+pytest
+ruff
+scikit-learn
+seaborn
+transformers
+tree-sitter
+
+# PyTorch 必须根据 CPU/CUDA 环境从官方安装指引单独安装，避免错误的 CUDA 轮子。
+
