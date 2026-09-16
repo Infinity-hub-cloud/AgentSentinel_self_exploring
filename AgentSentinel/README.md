@@ -6,13 +6,13 @@ The project is still in an early stage, and this folder mainly records my learni
 
 #Folder Description
 
-agent/ : Agent related code
-attacks/ : Attack experiments
-benchmark/ : Evaluation scripts
-defenses/ : Defense experiments
-sandbox/ : Experiment environment
-tests/ : Test files
-- `results/ : Experiment results
+-agent/ : Agent related code
+-attacks/ : Attack experiments
+-benchmark/ : Evaluation scripts
+-defenses/ : Defense experiments
+-sandbox/ : Experiment environment
+-tests/ : Test files
+-results/ : Experiment results
 
 
 #Run
